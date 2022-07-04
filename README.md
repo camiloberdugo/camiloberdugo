@@ -5,7 +5,7 @@
 
 
 <p align="center">
-:v
+
   
   <img src="https://user-images.githubusercontent.com/102998753/177176607-3c96739a-dea6-4d65-9f5e-4e8f67a40ce4.gif">
 </p>
@@ -65,7 +65,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiloberdugo&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-![Snake animation](https://github.com/camiloberdugo/camiloberdugo/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+
+  
+  <img src="https://img.xatblog.net/image/fRJQehN1gl.jpg">
+</p>
 
 
 <!--
