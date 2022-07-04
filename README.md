@@ -2,7 +2,15 @@
 <h1 align="center">Hi there, I'm Camilo Berdugo - Welcome! <img src="./src/wave.gif" width="30px"></h1>
 
 ![labradora](https://user-images.githubusercontent.com/102998753/177172631-cdd2ef5b-bf2f-4eba-8a4b-72ca26b1ca0a.JPG)
-<center>
+<p align="center">
+Texto alineado
+  <b>Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  <img src="https://78.media.tumblr.com/a2b1c618a96bc1a7f85c0df0c2becbb8/tumblr_mrowch3MIn1sbav3bo1_500.gif">
+</p>
 <details>
   <summary>:zap: About me!</summary>
 
