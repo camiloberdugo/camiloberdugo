@@ -1,7 +1,9 @@
 ### Hi there 👋
 <h1 align="center">Hi there, I'm Camilo Berdugo - Welcome! <img src="./src/wave.gif" width="30px"></h1>
+<p align="center">
+![labradora]([https://user-images.githubusercontent.com/102998753/177172631-cdd2ef5b-bf2f-4eba-8a4b-72ca26b1ca0a.JPG](https://github.com/camiloberdugo/camiloberdugo/issues/2#issue-1293264989))
+</p>
 
-![labradora](https://user-images.githubusercontent.com/102998753/177172631-cdd2ef5b-bf2f-4eba-8a4b-72ca26b1ca0a.JPG)
 <p align="center">
 Texto alineado
   <b>Links:</b><br>
