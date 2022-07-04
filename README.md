@@ -5,6 +5,7 @@ https://github.com/camiloberdugo/camiloberdugo/issues/1#issue-1293237533
 <p align="center"> 
 <img src="https://github.com/camiloberdugo/camiloberdugo/issues/1#issue-1293237533">
 </p>
+![labradora](http://placekitten.com/200/300?style=centerme)
 <p align="center">
 Texto alineado
   <b>Links:</b><br>
