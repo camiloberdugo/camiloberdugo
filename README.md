@@ -2,7 +2,9 @@
 <h1 align="center">Hi there, I'm Camilo Berdugo - Welcome! <img src="./src/wave.gif" width="30px"></h1>
 
 ![labradora](https://github.com/camiloberdugo/camiloberdugo/issues/1#issue-1293237533)
-
+<p align="https://github.com/camiloberdugo/camiloberdugo/issues/1#issue-1293237533"> 
+<img src="">
+</p>
 
 <details>
   <summary>:zap: About me!</summary>
