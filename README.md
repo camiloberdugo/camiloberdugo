@@ -9,7 +9,7 @@ Texto alineado
   <a href="#">Link 2</a> |
   <a href="#">Link 3</a>
   <br><br>
-  <img src="https://78.media.tumblr.com/a2b1c618a96bc1a7f85c0df0c2becbb8/tumblr_mrowch3MIn1sbav3bo1_500.gif">
+  <img src="https://github.com/camiloberdugo/camiloberdugo/issues/2#issue-1293264989">
 </p>
 <details>
   <summary>:zap: About me!</summary>
