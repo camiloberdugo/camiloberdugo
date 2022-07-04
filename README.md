@@ -8,7 +8,7 @@
 
 ### 📊 Economist and Public Administrator, currently studying Data Science💻📈!!
 - 🦾 i love to climb!
-- 🤓  I am very disciplined and applied
+- 🤓  I am very applied
 - 🍕  I love food
 - 📉  I want to be a great data scientist
 </details>
