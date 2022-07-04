@@ -2,15 +2,8 @@
 <h1 align="center">Hi there, I'm Camilo Berdugo - Welcome! <img src="./src/wave.gif" width="30px"></h1>
 
 ![labradora](https://github.com/camiloberdugo/camiloberdugo/issues/1#issue-1293237533)
-<p align="center">
-Texto alineado
-  <b>Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
-  <img src="https://github.com/camiloberdugo/camiloberdugo/issues/2#issue-1293264989">
-</p>
+
+
 <details>
   <summary>:zap: About me!</summary>
 
