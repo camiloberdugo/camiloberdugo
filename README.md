@@ -1,11 +1,9 @@
 ### Hi there 👋
 <h1 align="center">Hi there, I'm Camilo Berdugo - Welcome! <img src="./src/wave.gif" width="30px"></h1>
 
-![labradora](https://github.com/camiloberdugo/camiloberdugo/issues/1#issue-1293237533)
-<p align="https://github.com/camiloberdugo/camiloberdugo/issues/1#issue-1293237533"> 
-<img src="">
- ![pajaro](https://img.xatblog.net/image/xnpfvZ3Uo.jpg "=50px")
-</p>
+
+![pajaro](https://img.xatblog.net/image/xnpfvZ3Uo.jpg)
+
 
 <details>
   <summary>:zap: About me!</summary>
