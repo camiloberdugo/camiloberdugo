@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Camilo Berdugo - Welcome! <img src="./src/wave.gif" width="30px"></h1>
 
 
-![pajaro](https://img.xatblog.net/image/xnpfvZ3Uo.jpg)
+![pajaro](https://github.com/camiloberdugo/camiloberdugo/issues/1#issue-1293237533)
 
 
 <details>
