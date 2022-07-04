@@ -2,15 +2,11 @@
 <h1 align="center">Hi there, I'm Camilo Berdugo - Welcome! <img src="./src/wave.gif" width="30px"></h1>
 
 
-![pajaro](https://user-images.githubusercontent.com/102998753/177176607-3c96739a-dea6-4d65-9f5e-4e8f67a40ce4.gif)
+
 
 <p align="center">
-Texto alineado
-  <b>Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
+:v
+  
   <img src="https://user-images.githubusercontent.com/102998753/177176607-3c96739a-dea6-4d65-9f5e-4e8f67a40ce4.gif">
 </p>
 
